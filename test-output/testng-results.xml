@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testng parameter concept" duration-ms="36660" started-at="2019-07-10T12:12:07Z" finished-at="2019-07-10T12:12:44Z">
+    <groups>
+    </groups>
+    <test name="Testng parameter concept" duration-ms="36660" started-at="2019-07-10T12:12:07Z" finished-at="2019-07-10T12:12:44Z">
+      <class name="com.qa.testngconcept.parameterconcept.TestngParameterConcept">
+        <test-method status="PASS" signature="loginToYahoo(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testngconcept.parameterconcept.TestngParameterConcept@5ae9a829]" name="loginToYahoo" duration-ms="36631" started-at="2019-07-10T17:42:07Z" finished-at="2019-07-10T17:42:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://in.yahoo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dipti]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToYahoo -->
+      </class> <!-- com.qa.testngconcept.parameterconcept.TestngParameterConcept -->
+    </test> <!-- Testng parameter concept -->
+  </suite> <!-- Testng parameter concept -->
+</testng-results>

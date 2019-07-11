@@ -1,0 +1,13 @@
+<suite name="Test Automation Suite">
+<test name="Half ebay feature test">
+
+<classes>
+<class name="com.test.ExceptionTimeOutTest"/>
+<class name="com.test.GoogleTest"/>
+<class name="com.test.InvocationCountTest"/>
+<class name="com.test.TestNgClass"/>
+<class name="com.test.TestngFeatures"/>
+</classes>
+</test>
+
+</suite>

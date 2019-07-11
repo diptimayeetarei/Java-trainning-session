@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qa.testngconcepts.GoogleTestExtra">
+        <methods>
+          <include name="testmethod"/>
+          <include name="facebookLogo5"/>
+          <include name="facebookLogo3"/>
+          <include name="facebookLogo1"/>
+          <include name="facebookLogo"/>
+          <include name="facebookLogo4"/>
+          <include name="setup"/>
+          <include name="facebookLogo2"/>
+          <include name="facebookLogo0"/>
+        </methods>
+      </class> <!-- com.qa.testngconcepts.GoogleTestExtra -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

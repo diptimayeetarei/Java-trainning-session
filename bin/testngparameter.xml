@@ -1,0 +1,13 @@
+<suite name="Testng parameter concept">
+<test name="Testng parameter concept">
+<parameter name="url" value="https://in.yahoo.com/" />
+<parameter name="username" value="dipti" />
+
+<parameter name="browser" value="chrome" />
+<classes>
+<class name="com.qa.testngconcept.parameterconcept.TestngParameterConcept"/>
+
+</classes>
+</test>
+
+</suite>
